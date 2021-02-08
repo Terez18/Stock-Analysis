@@ -12,20 +12,20 @@ In the independent learning module code was created to find the total volume and
 The time to retrieve the information for 2017 using the old code was 0.734375 seconds and the new code was 0.21875 seconds. The refactored code is significantly faster.
 
 ### Image of Time Stamp for 2017 Old Code
-![Old_Code_2017.png](Resources/Old_Code_2017.png)
+![Old_Code_2017.PNG](Resources/Old_Code_2017.PNG)
 
 ### Image of Time Stamp for 2017 New Code
-![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.PNG)
 
 ---
 
 The time to retrieve the information for 2018 using the old code was 0.7539063 seconds and the new code was 0.2109375 seconds.The refactored code is significantly faster.
 
 ### Image of Time Stamp for 2018 Old Code
-![Old_Code_2018.png](Resources/Old_Code_2018.png)
+![Old_Code_2018.PNG](Resources/Old_Code_2018.PNG)
 
 ### Image of Time Stamp for 2018 New Code
-![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
 
 ---
 
